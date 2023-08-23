@@ -40,6 +40,9 @@
     color: var(--color-neutral-65);
     margin-bottom: var(--space-xs);
   }
+  & a + h6 {
+    margin-top: var(--space-s);
+  }
 
   & a {
     color: var(--color-neutral-50);
